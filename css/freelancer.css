@@ -291,7 +291,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #C71585;
+  background-color: #DB7093;
 }
 
 a {
@@ -338,6 +338,6 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #C71585;
-  border-color: #C71585;
+  background-color: #DB7093;
+  border-color: #DB7093;
 }
